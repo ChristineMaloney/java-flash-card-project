@@ -1,0 +1,35 @@
+What does a class contain?
+Fields, methods, and constructors
+What is an abstract class?
+Any class that has an abstract method
+A(n) ____ class is a class that cannot be instantiated
+abstract
+What is the naming convention for methods?
+camelCase - start with lower case then upper case on word breaks.
+When a subclass provides a different implementation for a method of a superclass, this is called:
+method overriding
+What are the parts of a method declaration?
+Access modifiers, return type, method name and arguments
+What are the parts of a method signature?
+Just the method name and arguments
+How do you create an ArrayList?
+List<MyElement> myList = new ArrayList<>();
+How do you add an element to a List?
+myList.add(myElement);
+How do you create a HashMap?
+Map<MyKey, MyElement> myMap = new HashMap<>();
+Hoe do you add an element to a Map?
+myMap.put(myKey, myElement);
+What is an interface?
+A special kind of class used to declare abstract methods.
+Why use an interface?
+To create loose coupling and common methods between classes not related through inheritance.
+What are the two ways to achieve polymorphism in Java?
+method overloading and method overriding.
+How do you inherit a class in Java?
+Use the extends keyword.
+How do you assign an interface to a class?
+public MyClass extends MySuperClass extends MuInterface
+Explain Polymorphism via an interface
+An interface typed reference variable can be a reference to an object from a class that implements the interface.
+
